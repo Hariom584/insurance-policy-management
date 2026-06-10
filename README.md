@@ -271,6 +271,16 @@ This project is for educational purposes as part of a Software Testing curriculu
 ---
 
 <div align="center">
+<img width="896" height="503" alt="image" src="https://github.com/user-attachments/assets/4c442f13-a436-4d13-b49f-502d6f622575" />
+<img width="1070" height="601" alt="image" src="https://github.com/user-attachments/assets/61f0f579-33e7-4591-889e-95e128134067" />
+<img width="1070" height="601" alt="image" src="https://github.com/user-attachments/assets/17c74c6d-338c-4209-bcd5-2ca2132221a6" />
+<img width="1070" height="601" alt="image" src="https://github.com/user-attachments/assets/2f96ccd3-4188-4c38-bea6-7688cb457b8c" />
+<img width="1070" height="601" alt="image" src="https://github.com/user-attachments/assets/d8bb26c1-8d46-409d-9093-b3ff0a39b952" />
+
+
+
+
+
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
